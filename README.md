@@ -1,10 +1,10 @@
-# Hi there, I'm [ชื่อของคุณ] 👋
+# Hi there, I'm [Nutawut] 👋
 
 ## 👨‍💻 About Me
 * 🎓 Currently studying at the **Faculty of Informatics, Burapha University** (Year 2).
 * 🎯 Actively seeking a **Frontend or Web Development Internship** for the upcoming summer.
 * 💡 Passionate about crafting intuitive UI/UX, building robust web applications, and exploring cybersecurity.
-* 📫 How to reach me: [ใส่อีเมลของคุณ เช่น 67160028@go.buu.ac.th]
+* 📫 How to reach me: [67160028@go.buu.ac.th , nuttawutru.31@gmail.com]
 
 ---
 
